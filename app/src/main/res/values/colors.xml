@@ -3,4 +3,15 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="malta">#BBADA0</color>
+    <color name="yellow">#E7C44B</color>
+    <color name="lightGray">#E9DBCE</color>
+    <color name="sandyBrown">#ED995B</color>
+    <color name="bizarre">#EEE4DA</color>
+    <color name="cinnabar">#E95937</color>
+    <color name="parchment">#ECE0C8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cement">#8F7A66</color>
+    <color name="softAmber">#CDC1B4</color>
+    <color name="sandstone">#776E65</color>
 </resources>
